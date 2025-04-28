@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id pauseBtn
+id playBtn
+id seekBar
+id songTitle
+id stopBtn
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw song
+string app_name
+style Base.Theme.Exp9
+style Theme.Exp9
+xml backup_rules
+xml data_extraction_rules
